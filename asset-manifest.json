@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simpledesign/static/css/main.0e1c3504.css",
+    "main.js": "/simpledesign/static/js/main.845e3287.js",
+    "static/js/787.8c4317aa.chunk.js": "/simpledesign/static/js/787.8c4317aa.chunk.js",
+    "static/media/header.jpg": "/simpledesign/static/media/header.f899cd0395ef83a00bfc.jpg",
+    "static/media/img-3.jpg": "/simpledesign/static/media/img-3.d7559fc01d7b51941e1b.jpg",
+    "static/media/img-1.jpg": "/simpledesign/static/media/img-1.2fa05c9e2d144fe97bf3.jpg",
+    "static/media/img-2.jpg": "/simpledesign/static/media/img-2.22f3b2f684e5e8e6ccb3.jpg",
+    "static/media/img-6.jpg": "/simpledesign/static/media/img-6.89f2bd86bfefe7844fa2.jpg",
+    "static/media/img-7.jpg": "/simpledesign/static/media/img-7.12f7f422d4526ecff1e6.jpg",
+    "static/media/img-4.jpg": "/simpledesign/static/media/img-4.0311166484129597ae53.jpg",
+    "static/media/img-5.jpg": "/simpledesign/static/media/img-5.39936b078aa891ef084c.jpg",
+    "static/media/avatar3.jpg": "/simpledesign/static/media/avatar3.048272098f480ac8b533.jpg",
+    "static/media/avatar1.jpg": "/simpledesign/static/media/avatar1.15092c60c1435a6d5930.jpg",
+    "index.html": "/simpledesign/index.html",
+    "main.0e1c3504.css.map": "/simpledesign/static/css/main.0e1c3504.css.map",
+    "main.845e3287.js.map": "/simpledesign/static/js/main.845e3287.js.map",
+    "787.8c4317aa.chunk.js.map": "/simpledesign/static/js/787.8c4317aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1c3504.css",
+    "static/js/main.845e3287.js"
+  ]
+}
